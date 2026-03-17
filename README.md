@@ -2,6 +2,9 @@
 
 ## Overview
 This project analyzes historical revenue trends across major technology companies and builds a simple forecasting model to project future Google revenue growth.
+## Visualization
+
+![Revenue Forecast](data/revenue_chart.png)
 
 ## Tools Used
 - Python
