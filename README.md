@@ -27,6 +27,10 @@ This project analyzes historical revenue trends across major technology companie
 - Google revenue forecast for 2025–2027
 - Visualization of historical and projected revenue trends
 
+- Google revenue forecast for 2025–2027
+- Year-over-year revenue growth analysis
+- 2-year moving average trend analysis
+- 
 ## Next Steps
 - Add scenario modeling
 - Expand the dataset with segment-level revenue
